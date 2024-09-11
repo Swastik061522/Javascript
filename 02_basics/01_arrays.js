@@ -24,5 +24,9 @@ console.log(array);
 
 
 
+// slice and splice very important!!
+
+
+
 
 
